@@ -1,0 +1,982 @@
+@media only screen and (max-width:1024px){
+
+.wContent{
+margin:0;
+}
+
+.hProfil{
+width:220px;
+float:left;
+padding-left:20px;
+}
+
+.cProfil img,.cWawancara img{
+width:100%;
+}
+
+.hNews{
+float:left;
+}
+
+.sidebar{
+width:267px;
+float:left;
+padding-right:20px;
+}
+
+.sidebarTwitter h6 a, .sidebarFacebook h6 a{
+font-size:9px;
+}
+
+.sidebarTwitter h5, .sidebarFacebook h5{
+font-size:10px;
+}
+
+.hFoto{
+width:687px;
+height:auto;
+float:left;
+padding-left:20px;
+}
+
+.hVideo{
+float:left;
+margin-left:20px;
+padding-right:20px;
+}
+
+.wHFotoList .list{
+width:151px;
+height:151px;
+}
+
+.fSosmed{
+width:180px;
+float:left;
+padding-left:20px;
+}
+
+.fImageLogo{
+width:485px;
+float:left;
+}
+
+.fNewsPopular{
+float:left;
+padding-right:20px;
+}
+
+.listTipsFashion h6 a{
+font-size:12px;
+}
+
+.wCopyright h6{
+padding-left:20px;
+}
+
+.wHVideo iframe{
+width:100%;
+height:235px;
+}
+
+.wSubscribe input[type="submit"]{
+width:35%;
+}
+
+.footerNewsPopular li h6{
+width:75%;
+}
+
+.contentLeft{
+width:655px;
+float:left;
+padding-left:20px;
+}
+
+.sidebarChannel{
+width:350px;
+padding-right:20px;
+}
+
+.contentProfil,.contentOpini,.detailGaleri{
+width:535px;
+}
+
+.contentProfil img,.contentOpini img{
+width:100%;
+height:auto;
+}
+
+.sidebarTwitter h5, .sidebarFacebook h5,
+.sidebarTwitter h6, .sidebarFacebook h6{
+text-align:center;
+}
+.sidebarTwitter h6, .sidebarFacebook h6{
+width:44%;
+}
+
+.listNews .image img{
+width:100%;
+height:auto;
+}
+
+.listOpiniOther{
+width:138px;
+}
+
+.listFoto{
+width:47.9%;
+}
+
+.listFoto .image{
+height:auto;
+}
+
+.listFoto .image img{
+width:100%;
+height:auto;
+}
+
+.wSubscribe input[type="text"]{
+padding-right:39%;
+}
+
+}
+
+
+@media only screen and (max-width:800px){
+
+.container{
+width:100%;
+}
+
+.wnav{
+height:74px;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+margin-left:-10px;
+}
+
+.navbar-brand img{
+height:75px;
+width:auto;
+}
+
+.navbar-nav>li>a{
+padding:28px 14px;
+font-size:12px;
+}
+
+.spaceNavandContent{
+height:130px;
+}
+
+.dj-tabs,.dj-tabs-in{
+width:300px !important;
+}
+
+.dj-tabber .dj-tab{
+width:300px !important;
+padding:10px 10px !important;
+}
+
+#dj-tabber5m300 .dj-tab-indicator{
+right:296px;
+}
+
+.wContent{
+margin:0;
+}
+
+.hProfil{
+width:30%;
+height:auto;
+float:left;
+padding-left:20px;
+}
+
+.hNews{
+width:70%;
+height:auto;
+padding-right:20px;
+float:left;
+border-right:solid 1px transparent;
+}
+
+.sidebar{
+width:100%;
+padding-left:0;
+float:left;
+margin-top:20px;
+margin-right:0;
+padding:0 20px;
+}
+
+.hNewsList .image{
+width:45.45%;
+}
+
+.hNewsList .text{
+width:54.55%;
+}
+
+.hNewsList .text h6,.hNewsList .text p{
+width:100%;
+float:left;
+}
+
+.listTipsFashion .image,.listSideNews .image{
+height:100px;
+}
+
+.sidebarTwitter h5, .sidebarTwitter h6,
+.sidebarFacebook h5, .sidebarFacebook h6{
+text-align:center;
+}
+
+.sidebarTwitter h5,.sidebarFacebook h5{
+font-size:14px;
+}
+
+.sidebarTwitter h6 a, .sidebarFacebook h6 a{
+font-size:14px;
+}
+
+.sidebarTwitter h6,.sidebarFacebook h6{
+width:54.7%;
+}
+
+.hFoto{
+width:60%;
+}
+
+.hVideo{
+width:37%;
+}
+
+.wHFotoList .list{
+width:100px;
+height:100px;
+}
+
+.wHVideo iframe{
+width:100%;
+height:135px;
+}
+
+.sideVideo iframe{
+width:100%;
+height:350px;
+}
+
+.fSosmed{
+width:140px;
+}
+
+.fImageLogo{
+width:340px;
+}
+
+.fNewsPopular{
+width:280px;
+}
+
+.contentLeft{
+width:100%;
+height:auto;
+}
+
+.sidebarChannel{
+width:100%;
+height:auto;
+}
+
+.contentProfil,.contentOpini,.detailGaleri{
+width:88%;
+}
+
+.sidebarFoto .list:nth-child(1), .sidebarFoto .list:nth-child(2), .sidebarFoto .list:nth-child(3){
+margin-bottom:0;
+}
+
+.sidebarFoto .list{
+width:115px;
+height:115px;
+margin-right:10px !important;
+}
+
+.sidebarFoto .list .image img{
+height:100%;
+width:auto;
+}
+
+.sidebarFoto .list:last-child{
+margin-right:0 !important;
+}
+
+.spaceNavandContent.spaceNavandContentTop{
+height:150px;
+}
+
+.spaceGreen{
+height:50px;
+}
+
+.listOpiniOther{
+width:174px;
+margin-bottom:20px;
+}
+
+.listOpiniOther .image,.listOpiniOther .image img{
+width:100%;
+}
+
+.listFoto{
+width:48.3%;
+}
+
+.contentLeft{
+min-height:0!important;
+padding-bottom:20px;
+}
+
+}
+
+
+@media only screen and (max-width:768px){
+.wHFotoList .list{
+width:95px;
+height:95px;
+}
+
+.fNewsPopular{
+width:250px;
+}
+
+.footerNewsPopular li h6{
+width:72%;
+}
+
+.wHVideo iframe{
+width:100%;
+height:120px;
+}
+
+.sidebarFoto .list{
+width:15.49%;
+height:109px;
+}
+
+.fImageLogo{
+width:336px;
+}
+
+.listOpiniOther{
+width:166px;
+}
+
+.listFoto{
+width:48.2%;
+}
+
+}
+
+
+@media only screen and (max-width:767px){
+
+.shadowBottomNav{
+margin-top:4px;
+}
+
+.header{
+height:0;
+overflow:hidden;
+}
+
+.wnav{
+height:40px;
+}
+
+.navbar-brand img{
+height:43px;
+}
+
+.navbar-toggle{
+padding:7px 5px 6px;
+margin-right:10px;
+}
+
+.navbar{
+min-height:40px;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+background-color:transparent;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+position:relative;
+z-index:10;
+background-color:#096309;
+}
+
+.navbar-nav{
+margin-top:0;
+margin-bottom:0;
+}
+
+.navbar-nav>li>a{
+padding:12px 15px;
+color:#fff !important;
+border-top:solid 1px #1a971a;
+border-bottom:solid 1px #013c01;
+}
+
+.navbar-nav>li>a.active,.navbar-nav>li>a:hover{
+color:#fff !important;
+background-color:#013c01 !important;
+border-top:solid 1px #013c01;
+border-bottom:solid 1px #013c01;
+}
+
+.header{
+background-color:#013c01;
+}
+
+.headerSosmed {
+width:200px;
+float:none;
+margin:0 auto;
+}
+
+.headerSosmed li a{
+border:0;
+}
+
+.headerSosmed li:nth-child(1) a {
+border-left:0;
+}
+
+.headerSosmed li a i{
+color:#fff;
+}
+
+.headerRight{
+float:left;
+width:100%;
+}
+
+.headerRight li{
+border-right:0;
+}
+
+.headerRight li:nth-child(1){
+width:100%;
+}
+
+.headerRight li a{
+color:#fff;
+}
+
+.headerRight li button{
+background-color:#096309;
+}
+
+.headerRight li a:hover{
+color:#096309;
+background-color:transparent;
+}
+
+.facebook:hover,.twitter:hover,.youtube:hover,.instagram:hover,.rss:hover{
+background-color:transparent !important;
+}
+.facebook:hover i{
+color:#3c5a98 !important;
+}
+.twitter:hover i{
+color:#28aae1 !important;
+}
+.youtube:hover i{
+color:#c00000 !important;
+}
+.instagram:hover i{
+color:#517fa3 !important;
+}
+.rss:hover i{
+color:#f26109 !important;
+}
+
+.headerRight li:nth-child(2),.headerRight li:nth-child(3){
+width:50%;
+}
+
+.wHeadSearch{
+width:100%;
+height:30px;
+margin:5px 0;
+padding:0 20px;
+position:relative;
+}
+
+.wHeadSearch button{
+right:20px;
+}
+
+.wHeadSearch input[type="text"]{
+padding:0 40px 0 10px;
+}
+
+.btnHeader,.openBtnHeader{
+height:10px;
+display:block;
+cursor:pointer;
+}
+
+.wBtnIcon{
+height:10px;
+width:15px;
+float:left;
+text-align:center;
+background-color:#013c01;
+}
+
+.wBtnIcon i{
+display:block;
+margin-top:-3px;
+}
+
+#dj-tabber5m300 .dj-tabs{
+display:none;
+}
+
+#dj-tabber5m300 .dj-slides{
+margin-right:0;
+}
+
+.spaceNavandContent{
+height:70px;
+}
+
+.cHeadline{
+padding:20px 0;
+}
+
+.wContent{
+margin:0;
+}
+
+.hProfil{
+width:100%;
+padding-left:20px;
+border-right:0;
+}
+
+.hNews{
+width:100%;
+margin-top:20px;
+}
+
+.hNewsList .image{
+width:33.90%;
+}
+
+.hNewsList .text{
+width:66.10%;
+}
+
+.sidebar{
+margin-right:0;
+padding-right:20px;
+padding-left:20px;
+}
+
+.cWawancara .image img{
+width:100%;
+height:auto;
+}
+
+.wContent{
+padding:40px 15px;
+}
+
+.hFoto,.hVideo{
+width:100%;
+height:auto;
+float:left;
+padding-left:20px;
+padding-right:20px;
+}
+
+.hFoto{
+margin-bottom:20px;
+}
+
+.hVideo{
+margin-left:0;
+}
+
+.wHFotoList .list{
+width:22.5%;
+height:137px;
+}
+
+.wHFotoList .list .image img{
+height:100%;
+width:auto;
+}
+
+.wHVideo iframe{
+width:100%;
+height:325px;
+}
+
+.fSosmed{
+width:100%;
+padding:0 20px;
+margin-top:320px;
+margin-bottom:-310px;
+}
+
+.fImageLogo{
+width:100%;
+padding:0 20px;
+margin:-240px 0 0 0;
+border-right:0;
+border-left:0;
+}
+
+.fNewsPopular{
+width:100%;
+padding:0 20px;
+margin-top: 330px;
+}
+
+.footerNewsPopular li{
+width:100%;
+}
+
+.contentProfil,.contentOpini,.detailGaleri{
+width:100%;
+}
+
+.sidebarFoto .list{
+width:186px;
+height:186px;
+}
+
+.sidebarFoto .list:nth-child(1),.sidebarFoto .list:nth-child(2),.sidebarFoto .list:nth-child(3){
+margin-bottom:10px;
+}
+
+.sidebarFoto .list:nth-child(3){
+margin-right:0 !important;
+}
+
+.spaceGreen{
+height:30px;
+}
+
+.addThis .desktop{
+display:none;
+}
+
+.addThis .mobile{
+display:block;
+margin-bottom:20px;
+}
+
+.wContentProfil{
+padding:30px 0;
+}
+
+.listOpiniOther{
+width:22.4%;
+}
+
+.listOpiniOther .image img{
+height:100%;
+width:auto;
+}
+
+.listFoto{
+width:47.8%;
+}
+
+.sideVideo iframe{
+width:100%;
+height:300px;
+}
+
+.listSideNews .image{
+height:auto;
+}
+
+.wSubscribe input[type="text"]{
+padding-right:22%;
+}
+
+.wSubscribe input[type="submit"]{
+width:20%;
+}
+
+.dj-slide h6{
+display:block;
+}
+
+.webLink li{
+width:100% !important;
+background-color:#096309;
+border-left:0;
+}
+
+.webLink li a:hover{
+color:#fff;
+}
+
+}
+
+@media only screen and (max-width:600px){
+
+.hNewsList .image{
+height:92px;
+}
+
+.hNewsList .image img{
+width:100%;
+height:auto;
+}
+
+.listTipsFashion .image{
+height:77px;
+}
+
+.sidebarTwitter h6, .sidebarFacebook h6{
+width:52%;
+}
+
+.sidebarFoto .list{
+width:173px;
+height:173px;
+}
+
+.wHFotoList .list {
+width: 22.3%;
+height: 125px;
+}
+
+.listOpiniOther{
+width:22.3%;
+}
+
+.listFoto{
+width:100%;
+padding-bottom:20px;
+margin-right:0 !important;
+border-bottom: dotted 1px #888;
+margin-top:20px;
+}
+
+.rowList{
+margin-bottom:0;
+padding-bottom:0;
+border-bottom:0;
+margin-top:0;
+}
+
+}
+@media only screen and (max-width:568px){
+
+.sidebarFoto .list{
+width:162px;
+height:162px;
+}
+
+.wHFotoList .list {
+width: 22.1%;
+height: 116px;
+}
+
+.listOpiniOther{
+width:22.1%;
+}
+
+}
+@media only screen and (max-width:480px){
+.hNewsList .image{
+width:100%;
+height:auto;
+}
+
+.hNewsList .text{
+width:100%;
+margin-top:10px;
+padding-left:0;
+}
+
+.listTipsFashion .image,.listSideNews .image{
+height:auto;
+}
+
+.wHFotoList .list{
+width:47%;
+height:193px;
+margin-bottom:20px;
+}
+
+.wHFotoList .list:nth-child(1),
+.wHFotoList .list:nth-child(3),
+.wHFotoList .list:nth-child(5),
+.wHFotoList .list:nth-child(7){
+margin-right:20px;
+}
+.wHFotoList .list:nth-child(2),
+.wHFotoList .list:nth-child(4),
+.wHFotoList .list:nth-child(6),
+.wHFotoList .list:nth-child(8){
+margin-right:0;
+}
+
+
+.sidebarFoto .list{
+width:133px;
+height:133px;
+}
+
+.listOpiniOther{
+width:100%;
+margin-bottom:0;
+}
+
+.listOpiniOther:last-child{
+margin-bottom:20px;
+}
+
+.listOpiniOther .image{
+height:auto;
+}
+
+.listOpiniOther .image img{
+width:100%;
+}
+
+.sideVideo iframe{
+width:100%;
+height:275px;
+}
+
+.pgwSlideshow.narrow .ps-list li img{
+width:auto;
+}
+
+.wSubscribe input[type="text"]{
+padding-right:24%;
+}
+
+.wSubscribe input[type="submit"]{
+width:22%;
+}
+
+
+}
+@media only screen and (max-width:360px){
+.listTipsFashion .image,.listSideNews .image{
+width:100%;
+}
+.listTipsFashion h6,.listSideNews h6{
+width:100%;
+padding-left:0;
+margin-top:10px;
+}
+
+.dj-tabber-in{
+height:200px !important;
+}
+#dj-tabber5m300 .dj-slide{
+width:100% !important;
+}
+
+.sidebarTwitter h5,.sidebarFacebook h5{
+font-size:12px;
+}
+
+.sidebarTwitter h6, .sidebarFacebook h6{
+width:47%;
+}
+.sidebarTwitter h6 a, .sidebarFacebook h6 a{
+font-size:12px;
+}
+
+.wHFotoList .list{
+width:100%;
+height:300px;
+}
+
+.wHFotoList .list:nth-child(1),
+.wHFotoList .list:nth-child(3),
+.wHFotoList .list:nth-child(5),
+.wHFotoList .list:nth-child(7){
+margin-right:0;
+}
+
+.wHVideo iframe{
+height:280px;
+}
+
+.sidebarFoto .list:nth-child(1),
+.sidebarFoto .list:nth-child(3),
+.sidebarFoto .list:nth-child(5){
+margin-right:10px!important;
+}
+
+.sidebarFoto .list:nth-child(2),
+.sidebarFoto .list:nth-child(4),
+.sidebarFoto .list:nth-child(6){
+margin-right:0!important;
+}
+
+
+.sidebarFoto .list{
+width:145px;
+height:145px;
+margin-bottom:10px !important;
+}
+
+.sidebarFoto .list:nth-child(5),
+.sidebarFoto .list:nth-child(6){
+margin-bottom:0 !important;
+}
+
+.wSubscribe input[type="text"]{
+padding-right:32%;
+}
+
+.wSubscribe input[type="submit"]{
+width:30%;
+}
+
+}
+@media only screen and (max-width:320px){
+
+.wHFotoList .list{
+height:263px;
+}
+
+.wHVideo iframe{
+height:250px;
+}
+
+.wSubscribe input[type="text"]{
+padding-right:39%;
+}
+
+.wSubscribe input[type="submit"]{
+width:35%;
+}
+
+.sidebarFoto .list{
+width:125px;
+height:125px;
+}
+
+}
