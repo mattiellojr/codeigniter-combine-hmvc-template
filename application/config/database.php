@@ -97,7 +97,6 @@ $db['default'] = array(
 
 $db['development'] = array(
 	'dsn'	=> '',
-	//'hostname' => '156.67.213.190',
 	'hostname' => 'localhost',
 	'username' => '',
 	'password' => '',
